@@ -17,6 +17,8 @@
                 <sonar.organization>demo-project5</sonar.organization>
                 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         </properties>
+        <properties>
+        </properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
